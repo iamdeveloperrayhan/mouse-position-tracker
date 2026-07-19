@@ -50,7 +50,7 @@ mouse-position-tracker/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Developer Rayhan**
 
 GitHub: https://github.com/iamdeveloperrayhan
 
