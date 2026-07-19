@@ -14,7 +14,7 @@ A simple and interactive web project that tracks the mouse cursor position in re
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (jQuery)
 
 ## 🚀 Getting Started
 
